@@ -1,8 +1,8 @@
-#Proyecto Bus de Datos Practica
+# Proyecto Bus de Datos Practica
 
  este es un proyecto de bus de Datos
 
- #Colaboradores
+# Colaboradores
 
 MelvinErazo
  JavierEspinoza94
